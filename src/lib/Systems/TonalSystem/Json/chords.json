@@ -1,0 +1,204 @@
+{
+  "chordStructs": {
+    "dyads": [
+      {
+        "name": "Three",
+        "short": "3",
+        "signature": "3",
+        "array": [0, 4] 
+      },
+      {
+        "name": "Three Minor",
+        "short": "3min",
+        "signature": "3m",
+        "array": [0, 3]
+      },
+      {
+        "name": "Five",
+        "short": "5",
+        "signature": "5",
+        "array": [0, 7]
+      },
+      {
+        "name": "Three flath 5th / Double sharp 7",
+        "short": "3(b5th) / ##(7th)",
+        "signature": "3(b5)",
+        "array": [0, 6]
+      },
+      {
+        "name": "Three Minor 7th",
+        "short": "3(min7)",
+        "signature": "3(m7)",
+        "array": [0, 10]
+      },
+      {
+        "name": "Three Major 7th",
+        "short": "3(maj7)",
+        "signature": "3(M7)",
+        "array": [0, 11]
+      }
+    ],
+    "triads": [
+      {
+        "name": "Major",
+        "short": "maj",
+        "signature": "",
+        "array": [0, 4, 7]
+      },
+      {
+        "name": "Minor",
+        "short": "min",
+        "signature": "m",
+        "array": [0, 3, 7]
+      },
+      {
+        "name": "Diminished",
+        "short": "dim",
+        "signature": "o",
+        "array": [0, 3, 6]
+      },
+      {
+        "name": "Augmented",
+        "short": "aug",
+        "signature": "+",
+        "array": [0, 4, 8]
+      },
+      {
+        "name": "Suspended4",
+        "short": "sus4",
+        "signature": "sus4",
+        "array": [0, 5, 7]
+      },
+      {
+        "name": "Suspended2",
+        "short": "sus2",
+        "signature": "sus2",
+        "array": [0,2,7] 
+      },
+
+      {
+        "name": "add9th",
+        "short": "add9th",
+        "signature": "add9",
+        "array": [0, 2, 4]
+      },
+      {
+        "name": "(Sharp 9th)",
+        "short": "(#9)",
+        "signature": "(#9)",
+        "array": [0, 3, 4]
+      },
+      {
+        "name": "(Flat 5th)",
+        "short": "(b5)",
+        "signature": "(b5)",
+        "array": [0, 4, 6]
+      },
+      {
+        "name": "Five 7th",
+        "short": "5(7th)",
+        "signature": "5(7)",
+        "array": [0, 7, 10]
+      }
+    ],
+    "tetrads": [
+      {
+        "name": "Major 6th",
+        "short": "maj6",
+        "signature": "M6",
+        "array": [0, 4, 7, 9]
+      },
+      {
+        "name": "Minor 6th",
+        "short": "min6",
+        "signature": "m6",
+        "array": [0, 3, 7, 9]
+      },
+      {
+        "name": "Major 7th",
+        "short": "maj7",
+        "signature": "M7",
+        "array": [0, 4, 7, 11]
+      },
+      {
+        "name": "Minor 7th",
+        "short": "min7",
+        "signature": "m7",
+        "array": [0, 3, 7, 10]
+      },
+      {
+        "name": "Dominant 7th",
+        "short": "dom7",
+        "signature": "7",
+        "array": [0, 4, 7, 10]
+      },
+      {
+        "name": "Augmentet 7th",
+        "short": "aug7",
+        "signature": "+7",
+        "array": [0, 4, 8, 10]
+      },
+      {
+        "name": "Diminished 7th",
+        "short": "dim7",
+        "signature": "o7",
+        "array": [0, 3, 6, 9]
+      },
+      {
+        "name": "Half-diminished 7th",
+        "short": "halfdim7",
+        "signature": "ø7",
+        "array": [0, 3, 6, 10]
+      },
+      {
+        "name": "Nine sus4",
+        "short": "9sus4",
+        "signature": "9sus4",
+        "array": [0, 2, 5, 7]
+      },
+      {
+        "name": "Minor add9",
+        "short": "min add9",
+        "signature": "m add9",
+        "array": [0, 2, 3, 7]
+      },
+      {
+        "name": "add9",
+        "short": "add9",
+        "signature": "add9",
+        "array": [0, 2, 4, 7]
+      },
+      {
+        "name": "(Sharp 9th)",
+        "short": "(#9th)",
+        "signature": "(#9)",
+        "array": [0, 3, 4, 7]
+      },
+      {
+        "name": "Minor add11",
+        "short": "min add11",
+        "signature": "m add11",
+        "array": [0, 3, 5, 7]
+      },
+      {
+        "name": "add11",
+        "short": "add11",
+        "signature": "add11",
+        "array": [0, 4, 5, 7]
+      },
+      {
+        "name": "(Sharp 11th)",
+        "short": "(#11th)",
+        "signature": "(#11)",
+        "array": [0, 4, 6, 7]
+      },
+      {
+        "name": "(Flat 13th)",
+        "short": "(b13th)",
+        "signature": "(b13)",
+        "array": [0, 4, 7, 8]
+      }
+       
+    ]
+  }
+}
